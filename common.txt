@@ -1,4 +1,4 @@
 This is an example file used for a git practice exercise.
 
-My name:
+My name: Michael Gibson
 
